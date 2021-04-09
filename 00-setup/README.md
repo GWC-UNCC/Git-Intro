@@ -1,5 +1,7 @@
 # Initial Setup
 
+This will be the intial steps we are going to do in order to setup for this workshop.
+
 - [Initial Setup](#initial-setup)
   - [Install Git](#install-git)
     - [Windows](#windows)
@@ -7,8 +9,6 @@
   - [GitHub auth to VSCode](#github-auth-to-vscode)
   - [Fork Repository](#fork-repository)
   - [Clone locally](#clone-locally)
-
-This will be the intial steps we are going to do in order to setup for this workshop.
 
 ## Install Git
 
@@ -123,4 +123,4 @@ Then you should be good to continue.
 
    ![accept push & pull](/pictures/intro/img18.png)
 
-Now you should be ready to go to the next step of the [tutorial](/#steps). 😁🎉
+Now you should be ready to go to the next step of the [tutorial](/README.md#steps). 😁🎉

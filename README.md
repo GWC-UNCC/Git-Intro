@@ -64,11 +64,11 @@ Make sure you have followed [this setup guide](https://drive.google.com/file/d/1
    - [GitHub auth to VSCode](/00-setup/#github-auth-to-vscode)
    - [Fork Repository](/00-setup/#fork-repository)
    - [Clone locally](/00-setup/#clone-locally)
-2. Basics
-   - Add a file
-   - Check on your file
-   - Commit your file
-   - Check on your commited file
+2. [Basics](/01-basics/)
+   - [Add a file](/01-basics/#add-a-file)
+   - [Check on your file](/01-basics/#check-on-your-file)
+   - [Commit your file](/01-basics/#commit-your-file)
+   - [Check on your commited file](/01-basics/#check-on-your-commited-file)
 3. Next Level
    - Adding multiple files
    - a
