@@ -102,25 +102,26 @@ So, you should still have your staged changes of the bulk added files ( if not j
 When someone submits an issue for a feature or bug, it is automatically  assigned an issue number.
 You then can create a feature or bug branch from the main branch with `feat/<feature_name>/<issue_number>` or `bug/<bug_name>/<issue_number>`.
 The issue number for that branch should match the submitted issue it was created to address.
-Each feature/bug name should have one issue number.
+Each feature/bug name should have one issue number ( more info about issues [here](https://guides.github.com/features/issues/)).
 That submitted issue is where you should have detailed information as to what you are trying to accomplish, and that issue will also be tied to a pull request.
 We will look at issues more in depth another time, but for now let's go over a pull request.
 
 ## Pull Requests
 
-Pull requests allow your teammates time to look through your code and make sure you following conventions, as well as make helpful suggestions for how to improve things ( more on this [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) ).
+Pull requests ( PR ) allow your teammates time to look through your code and make sure you're following conventions, as well as make helpful comments/suggestions on your PR for how to improve things, if needed before merging with main ( more on this [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) ).
 
-They also allows you to easily merge your branches back into your main branch after you have sucessfully experimented with the code.
-Normally you would have detailed information about what you are trying to accomplish in an issue, which is used to clarify/identify wanted features, bugs, and future plans ( more info about issues [here](https://guides.github.com/features/issues/)).
+We can now click on the "Compare & pull request" button.
 
-Looking at the previous picture, click on the "Compare & pull request" button.
+Make sure the pull request is going against *your* main repository and **not** the GWC-UNCC original repo.*
 
-Make sure the pull request is going against your main repository and not the GWC-UNCC original repo.
-For now just click "Create pull request", but normally you would want to tie your issue to this PR by including some [keywords](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
+Normally you would have an issue that you want to tie to a PR by including some [keywords](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) or [manually linking it](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#manually-linking-a-pull-request-to-an-issue), but for now just click "Create pull request"
+
+\* - sometimes when creating a PR on a repo after forking.
+It will try to do a PR against the original repository.
 
 ![branch name](/pictures/next-level/img11.png)
 
-This will create a pull request ( PR ), and shows you what changes will be made to the repository if this PR is successfully created.
+This will create a pull request ( PR ), and we will go more into pull requests another time.
 
 ## Merging
 
@@ -128,4 +129,3 @@ For now we are just going to click "Merge pull request", and "Confirm merge".
 Normally you would want to get approval from other people to ensure everything looks good, but this is a tutorial 🙂
 
 Everything should have sucessfully merged, congrats! 😁
-Now you should be ready to go to the next step of the [tutorial](/README.md#steps).

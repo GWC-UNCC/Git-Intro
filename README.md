@@ -80,8 +80,6 @@ Make sure you have followed [this setup guide](https://drive.google.com/file/d/1
    - [Branching](/02-next_level/README.md#branching)
    - [Pull Requests](/02-next_level/README.md#pull-requests)
    - [Merging](/02-next_level/README.md#merging)
-4. [Hugo Specific](/03-hugo_specific/README.md)
-   - [Sub-Modules](/03-hugo_specific/README.md#sub-modules)
 
 ## Extra Resources
 
