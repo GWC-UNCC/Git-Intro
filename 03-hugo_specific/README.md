@@ -46,3 +46,5 @@ git submodule foreach git pull origin master
 ```git
 git submodule update --init --recursive 
 ```
+
+Now you should be ready to go to the next step of the [tutorial](/README.md#steps).

@@ -116,3 +116,4 @@ For now we are just going to click "Merge pull request", and "Confirm merge".
 Normally you would want to get approval from other people to ensure everything looks good, but this is a tutorial 🙂
 
 Everything should have sucessfully merged, congrats! 😁
+Now you should be ready to go to the next step of the [tutorial](/README.md#steps).
