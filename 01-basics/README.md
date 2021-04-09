@@ -38,12 +38,12 @@ The `U` stands for untracked changes, so that means while you added your file to
 
 ## Commit your file
 
-Now we are going to commit this file, so that git will track you changes ( also allowing other to access it, since git will hold on to it ).
+Now we are going to commit this file, so that git will track your changes ( also allowing others to access it, since git will hold onto it ).
 Click on the `+` next to the `U` under the "Changes" section.
 
 ![commit file](/pictures/basics/img05.png)
 
-You will now notice that your file has an `A` next to it now, and instead of under the changes section your file is under the "Staged Changes" section.
+You will now notice that your file has an `A` next to it, and instead of being under the changes section your file is under the "Staged Changes" section.
 The `A` means that your changes are staged and you are adding something.
 
 ![staged file](/pictures/basics/img06.png)
@@ -73,7 +73,7 @@ git config --global user.name "<your Github username>"
 
 \* - you can normally launch your terminal by going to the `Terminal` menu option up top and clicking the `New Terminal` option.
 
-Now go back to your commit message, and when you press `Ctrl`+`Enter` now it should be successful.
+Now go back to your commit message, and when you press `Ctrl`+`Enter` it should be successful.
 There should be no more files under the changes section ( img 1 ), but there is a new change to be pushed to the remote repository ( img 2 ).
 
 ![no more files](/pictures/basics/img10.png)
@@ -86,7 +86,7 @@ Launch your command palette, and type `push` and hit `Enter`.
 
 ## Check on your commited file
 
-If you go back to your web browser, and refresh the page. Your file that you created should be there 🥳
+Go back to your web browser, where your github repository is, and refresh the page. Your file that you created should be there 🥳
 Now you should be ready to go to the next step of the [tutorial](/README.md#steps).
 
 As a note, it is normally preferred to commit often, because you can always collapse ( or squash ) how many commits are made.
