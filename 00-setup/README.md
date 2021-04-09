@@ -106,11 +106,21 @@ Then you should be good to continue.
    ![paste url to command palette](/pictures/intro/img13.png)
 - Choose a location to save this source code at. ( I recommend keeping all your source code in one folder ( it can get quite unruly if you don't 😅 ))
 
-   ![paste url to command palette](/pictures/intro/img14.png)
+   ![choose location](/pictures/intro/img14.png)
 
 - In the bottom right hand corner of your vscode window there should be a pop-up saying that it is cloning the repository.
   When it finishes, you should get another pop-up like the one below. Click the `Open` button.
 
-   ![paste url to command palette](/pictures/intro/img15.png)
+   ![open](/pictures/intro/img15.png)
 
-Now you should be ready to start the rest of the tutorial. 😁🎉
+- In the bottom left hand corner there is a bi-directional arrow ( picture below ), click on that.
+
+   ![click bi-directional arrows](/pictures/intro/img16.png)
+- When the pop-up shows, click `OK`
+
+   ![accept push & pull](/pictures/intro/img17.png)
+- Then, after a few seconds, in the bottom right corner there should be another pop up which asks about periodic fetching. Click `Yes` for that.
+
+   ![accept push & pull](/pictures/intro/img18.png)
+
+Now you should be ready to go to the next step of the [tutorial](/#steps). 😁🎉
