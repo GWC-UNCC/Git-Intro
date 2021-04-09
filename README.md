@@ -60,9 +60,10 @@ Make sure you have followed [this setup guide](https://drive.google.com/file/d/1
 ### Steps
 
 1. [Setup](/00-setup/)
+   - [Install Git](/00-setup/#install-git)
    - [GitHub auth to VSCode](/00-setup/#github-auth-to-vscode)
-   - Fork Repository
-   - Clone locally
+   - [Fork Repository](/00-setup/#fork-repository)
+   - [Clone locally](/00-setup/#clone-locally)
 2. Basics
    - Add a file
    - Check on your file
