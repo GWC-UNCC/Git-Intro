@@ -76,7 +76,7 @@ We will be authenticating VSCode to your github account. This will allow you to 
    ![vscode popup](/pictures/intro/img09.png)
 
 \* - **NOTE**: to the right of the option you will see a set of keys you can press on your keyboard to launch the command palette without clicking.
-Also, this will now be referenced as "command palette" and I won't say those instructions again.
+Also, this will now be referenced as "command palette" for the rest of the instructions.
 
 Now don't do anything else with vscode yet, but continue to the next section.
 
