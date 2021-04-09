@@ -47,8 +47,9 @@ Setup instructions are [here](https://drive.google.com/file/d/1_xeNWd3DUjafba5Db
 **NOTE**: you will need to sign-in with your UNC Charlotte email address.
 
 While we will use the vscode GUI ( Graphical User Interface ( using your mouse or clicking on things )), to do all of these commands.
+<!-- this is an easter egg #1, post in the web team channel if you found me 😁 -->
 I would emplore you to eventually, as time permits, understand what these commands are doing behind the scences.
-There will be a reference at the bottom of each section to show you what the [CLI](https://en.wikipedia.org/wiki/Command-line_interface) ( command line interface ( text you put into a [terminal](https://en.wikipedia.org/wiki/Terminal#Software) ))
+There will be ( at a later date ) a reference at the bottom of each section to show you what the [CLI](https://en.wikipedia.org/wiki/Command-line_interface) ( command line interface ( text you put into a [terminal](https://en.wikipedia.org/wiki/Terminal#Software) ))
 
 ### What is this document?
 
