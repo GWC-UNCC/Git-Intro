@@ -22,17 +22,17 @@
 
 #### Definition
 
+tl;dr: it is used to help manage, store, and merge your things ( code, files, images, etc... ) with other people.
+
 src: [Wikipedia](https://en.wikipedia.org/wiki/Git)
 > Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).
 
-tl;dr: it is used to help manage, store, and merge your things ( code, files, images, etc... ) with other people.
-
 ### What is GitHub
+
+tl;dr: one of the most popular Git hosting websites.
 
 src: [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 > GitHub is a provider of Internet hosting for software development and version control using Git.
-
-tl;dr: one of the most popular Git hosting websites.
 
 Some alteratives are:
 
