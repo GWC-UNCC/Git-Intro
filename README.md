@@ -60,7 +60,7 @@ Make sure you have followed [this setup guide](https://drive.google.com/file/d/1
 ### Steps
 
 1. [Setup](/00-setup/)
-   - [GitHub auth to VSCode](/00-00-setup/#github-auth-to-vscode)
+   - [GitHub auth to VSCode](/00-setup/#github-auth-to-vscode)
    - Fork Repository
    - Clone locally
 2. Basics
