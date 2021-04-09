@@ -5,9 +5,10 @@ This is a section for hugo specific important parts, pertaining to git.
 - [Hugo Specific](#hugo-specific)
   - [Sub-Modules](#sub-modules)
     - [Add a sub-module theme](#add-a-sub-module-theme)
+    - [Clone Recursively](#clone-recursively)
+    - [Pull submodules after clone](#pull-submodules-after-clone)
     - [Remove a theme](#remove-a-theme)
     - [Update theme to most recent version](#update-theme-to-most-recent-version)
-    - [Pull submodules after clone](#pull-submodules-after-clone)
 
 ## Sub-Modules
 
@@ -25,6 +26,30 @@ git submodule add <theme_git_url> themes/<name>
 #   git submodule add https://github.com/themefisher/academia-hugo.git themes/academia-hugo
 ```
 
+### Clone Recursively
+
+This is if a repo has submodules.
+
+**NOTE:** this is how the [main website repo](https://github.com/GWC-UNCC/Girls-Who-Code-at-UNCC) should be cloned.
+
+1. Launch your command palette
+2. type clone, and select the `Git: Clone (Recursive)` options
+
+   ![clone recursive](/pictures/hugo-specific/img00.png)
+3. Then follow the [normal clone instruction](/00-setup/README.md#clone-locally).
+
+If you have already cloned the repository without the recursive option, then  you need to run [this command](#pull-submodules-after-clone).
+
+### Pull submodules after clone
+
+```git
+git submodule update --init --recursive 
+```
+
+If you were following how to clone the main website, then you can stop here.
+
+The following is just for general reference.
+
 ### Remove a theme
 
 ```git
@@ -40,11 +65,3 @@ git rm -f themes/<name>
 ```git
 git submodule foreach git pull origin master
 ```
-
-### Pull submodules after clone
-
-```git
-git submodule update --init --recursive 
-```
-
-Now you should be ready to go to the next step of the [tutorial](/README.md#steps).

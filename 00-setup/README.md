@@ -101,6 +101,8 @@ Then you should be good to continue.
 - Then type `clone`, hit `Enter`, and click `Clone from GitHub`
 
    ![clone from GH](/pictures/intro/img03.png)
+
+   - **NOTE:** the [main website repo](https://github.com/GWC-UNCC/Girls-Who-Code-at-UNCC) is cloned a bit diferently. see [here](/03-hugo_specific/README.md#clone-recursively)
 - Paste the url you had copied before, and hit `Enter`
 
    ![paste url to command palette](/pictures/intro/img13.png)
