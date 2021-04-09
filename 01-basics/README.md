@@ -32,7 +32,7 @@ As well as on the far left hand side there is now a 1 that has popped up.
 
 Click on the icon with a 1 on it, and this will bring you to the "Source Control" view.
 Here you should see your file which you just created under a section called "Changes".
-The `U` stands for untracked changes, so that means while you added your file to folder the repo is in, git isn't tracking your changes to it yet.
+The `U` stands for untracked changes, so that means while you added your file to the folder the repo is in, git isn't tracking your changes to it yet.
 
 ![changes view](/pictures/basics/img04.png)
 
