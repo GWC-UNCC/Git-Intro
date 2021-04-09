@@ -14,6 +14,7 @@
   - [Extra Resources](#extra-resources)
     - [Git](#git)
     - [Markdown](#markdown)
+    - [Hugo Doc](#hugo-doc)
 
 ## Overview
 
@@ -71,15 +72,15 @@ Make sure you have followed [this setup guide](https://drive.google.com/file/d/1
    - [Check on your file](/01-basics/#check-on-your-file)
    - [Commit your file](/01-basics/#commit-your-file)
    - [Check on your commited file](/01-basics/#check-on-your-commited-file)
-3. Next Level
-   - [Log view](#log-view)
-   - [Adding multiple changes](#adding-multiple-changes)
-   - [Undo](#undo)
-   - [Branching](#branching)
-   - [Pull Requests](#pull-requests)
-   - [Merging](#merging)
-4. Hugo Specific
-   - Sub-Modules
+3. [Next Level](/02-next_level/)
+   - [Log view](/02-next_level/#log-view)
+   - [Adding multiple changes](/02-next_level/#adding-multiple-changes)
+   - [Undo](/02-next_level/#undo)
+   - [Branching](/02-next_level/#branching)
+   - [Pull Requests](/02-next_level/#pull-requests)
+   - [Merging](/02-next_level/#merging)
+4. [Hugo Specific](/03-hugo_specific/)
+   - [Sub-Modules](/03-hugo_specific/#sub-modules)
 
 ## Extra Resources
 
@@ -92,4 +93,9 @@ Make sure you have followed [this setup guide](https://drive.google.com/file/d/1
 
 ### Markdown
 
-- te
+- <https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf>
+- <https://www.markdownguide.org/cheat-sheet>
+
+### Hugo Doc
+
+- <https://gohugo.io/documentation/>
