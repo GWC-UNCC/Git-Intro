@@ -7,6 +7,7 @@ Now you should have everything configured and a copy of this repository pulled d
   - [Check on your file](#check-on-your-file)
   - [Commit your file](#commit-your-file)
   - [Check on your commited file](#check-on-your-commited-file)
+  - [Extra resources](#extra-resources)
 
 ## Add a file
 
@@ -85,4 +86,14 @@ Launch your command palette, and type `push` and hit `Enter`.
 
 ## Check on your commited file
 
-If you go back to your web browser, and refresh the page. You file that you created should be there 🥳
+If you go back to your web browser, and refresh the page. Your file that you created should be there 🥳
+
+As a note, it is normally preferred to commit often, because you can always collapse ( or squash ) how many commits are made.
+You can't undo/get back commits you haven't made though ( if you make a mistake or your computer dies ).
+So, it is generally recommended to commit frequently and small, with descriptive messages.
+Just don't let it get in the way of the fun using vscode 😅.
+
+## Extra resources
+
+- making your email address private inside of git(hub): <https://docs.github.com/articles/setting-your-email-in-git>
+- <https://git-scm.com/docs/git-add>

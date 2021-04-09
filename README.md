@@ -12,6 +12,8 @@
     - [Pre-Reqs](#pre-reqs)
     - [Steps](#steps)
   - [Extra Resources](#extra-resources)
+    - [Git](#git)
+    - [Markdown](#markdown)
 
 ## Overview
 
@@ -70,12 +72,24 @@ Make sure you have followed [this setup guide](https://drive.google.com/file/d/1
    - [Commit your file](/01-basics/#commit-your-file)
    - [Check on your commited file](/01-basics/#check-on-your-commited-file)
 3. Next Level
-   - Adding multiple files
-   - a
+   - [Log view](#log-view)
+   - [Adding multiple changes](#adding-multiple-changes)
+   - [Undo](#undo)
+   - [Branching](#branching)
+   - [Pull Requests](#pull-requests)
+   - [Merging](#merging)
 4. Hugo Specific
+   - Sub-Modules
 
 ## Extra Resources
 
+### Git
+
 - <https://www.theodinproject.com/paths/foundations/courses/foundations#git-basics>
 - <https://learngitbranching.js.org/>
+- <https://git-scm.com>
 - <https://lab.github.com/>
+
+### Markdown
+
+- te
