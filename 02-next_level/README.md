@@ -9,6 +9,7 @@ These are the next level steps you should learn to further expand on how to coll
   - [Branching](#branching)
     - [Branching for issues](#branching-for-issues)
   - [Pull Requests](#pull-requests)
+    - [Getting back to main](#getting-back-to-main)
   - [Merging](#merging)
 
 ## Log view
@@ -86,7 +87,7 @@ So, you should still have your staged changes of the bulk added files ( if not j
 
    ![branch name](/pictures/next-level/img08.png)
 
-5. So, if you got to commit these files now, it will be to this branch
+5. So, if you go to commit these files now, it will be to this branch
 6. Then push the changes, and you will get a pop-up. Hit "OK"
 
    ![branch name](/pictures/next-level/img09.png)
@@ -122,6 +123,19 @@ It will try to do a PR against the original repository.
 ![branch name](/pictures/next-level/img11.png)
 
 This will create a pull request ( PR ), and we will go more into pull requests another time.
+
+### Getting back to main
+
+1. Open command palette
+2. type `checkout` and select `Git: Checkout to...`
+
+   ![checkout command palette](/pictures/next-level/img12.png)
+3. Select the main branch
+
+   ![selecting main branch](/pictures/next-level/img13.png)
+4. Open command palette
+5. type pull and select `Git: Pull`
+6. You should have all the new changes
 
 ## Merging
 
