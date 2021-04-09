@@ -82,7 +82,7 @@ Now don't do anything else with vscode yet, but continue to the next section.
 
 ## Fork Repository
 
-We aren't going to go into what we are doing just yet, but for now go to your browser and just click on the fork button for this repository.
+We aren't going to go into what we are doing just yet, but for now go to your browser and click on the fork button for this repository.
 
 ![fork button](/pictures/intro/img10.png)
 
@@ -104,7 +104,7 @@ Then you should be good to continue.
 - Paste the url you had copied before, and hit `Enter`
 
    ![paste url to command palette](/pictures/intro/img13.png)
-- Choose a location to save this source code at. ( I recommend keeping all your source code in one folder ( it can get quite unruly if you don't 😅 ))
+- Choose a location to save this source code. ( I recommend keeping all your source code in one folder ( it can get quite unruly if you don't 😅 ))
 
    ![choose location](/pictures/intro/img14.png)
 

@@ -87,6 +87,7 @@ Launch your command palette, and type `push` and hit `Enter`.
 ## Check on your commited file
 
 If you go back to your web browser, and refresh the page. Your file that you created should be there 🥳
+Now you should be ready to go to the next step of the [tutorial](/README.md#steps).
 
 As a note, it is normally preferred to commit often, because you can always collapse ( or squash ) how many commits are made.
 You can't undo/get back commits you haven't made though ( if you make a mistake or your computer dies ).
