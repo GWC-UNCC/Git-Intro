@@ -9,6 +9,7 @@ This is a section for hugo specific important parts, pertaining to git.
     - [Pull submodules after clone](#pull-submodules-after-clone)
     - [Remove a theme](#remove-a-theme)
     - [Update theme to most recent version](#update-theme-to-most-recent-version)
+    - [Pull updates from fork's upstream](#pull-updates-from-forks-upstream)
 
 ## Sub-Modules
 
@@ -64,4 +65,15 @@ git rm -f themes/<name>
 
 ```git
 git submodule foreach git pull origin master
+```
+
+### Pull updates from fork's upstream
+
+If you want to get updates from the main website repo and you already forked it ( after there were changes ), then you should be able to get the updates from the main repo by running these commands.
+
+```shell
+# windows operating system:
+git remote add upstream https://github.com/GWC-UNCC/Girls-Who-Code-at-UNCC.git ; git fetch upstream ; git pull upstream main ; git submodule update --init --recursive
+# *nix (i.e. Mac's ) operating system:
+git remote add upstream https://github.com/GWC-UNCC/Girls-Who-Code-at-UNCC.git && git fetch upstream && git pull upstream main && git submodule update --init --recursive
 ```
