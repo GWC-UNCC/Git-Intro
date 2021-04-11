@@ -73,7 +73,7 @@ If you want to get updates from the main website repo and you already forked it 
 
 ```shell
 # windows operating system:
-git remote add upstream https://github.com/GWC-UNCC/Girls-Who-Code-at-UNCC.git ; git fetch upstream ; git pull upstream main ; git submodule update --init --recursive
+git remote add upstream https://github.com/GWC-UNCC/Girls-Who-Code-at-UNCC.git ; git fetch upstream ; git pull upstream main
 # *nix (i.e. Mac's ) operating system:
-git remote add upstream https://github.com/GWC-UNCC/Girls-Who-Code-at-UNCC.git && git fetch upstream && git pull upstream main && git submodule update --init --recursive
+git remote add upstream https://github.com/GWC-UNCC/Girls-Who-Code-at-UNCC.git && git fetch upstream && git pull upstream main
 ```
