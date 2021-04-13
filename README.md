@@ -43,7 +43,7 @@ Some alteratives are:
 
 This workshop will be to help you get up and running with some basic understand and usage of using Git ( refereced as git ) with GitHub ( refereced as github ), through [VSCode](https://code.visualstudio.com/) ( referenced as vscode ).
 
-Setup instructions are [here](https://drive.google.com/file/d/1_xeNWd3DUjafba5Dbd-EzAtfL_CfntuS/view?usp=sharing) if you need them.
+Setup instructions are [here](https://docs.google.com/document/d/1yCzhlfw8hHLdF0ZBhHfcjOAIyA1cO7OnHbG1he1prM0/edit?usp=sharing) if you need them.
 **NOTE**: you will need to sign-in with your UNC Charlotte email address.
 
 While we will use the vscode GUI ( Graphical User Interface ( using your mouse or clicking on things )), to do all of these commands.
@@ -59,7 +59,7 @@ This document is a [markdown](https://guides.github.com/features/mastering-markd
 
 ### Pre-Reqs
 
-Make sure you have followed [this setup guide](https://drive.google.com/file/d/1_xeNWd3DUjafba5Dbd-EzAtfL_CfntuS/view?usp=sharing).
+Make sure you have followed [this setup guide](https://docs.google.com/document/d/1yCzhlfw8hHLdF0ZBhHfcjOAIyA1cO7OnHbG1he1prM0/edit?usp=sharing).
 
 ### Steps
 
