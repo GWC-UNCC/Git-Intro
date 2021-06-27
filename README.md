@@ -1,3 +1,7 @@
+# See the recording for this workshop:
+
+[![Video Preview Image](https://img.youtube.com/vi/dnZkN6w6orw/0.jpg)](https://youtu.be/dnZkN6w6orw)
+
 
 # Git(Hub) Workshop Guide
 
