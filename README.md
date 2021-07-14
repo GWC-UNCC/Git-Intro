@@ -1,6 +1,6 @@
 ## See the recording for this workshop:
 
-[![Video Preview Image](https://img.youtube.com/vi/dnZkN6w6orw/0.jpg)](https://youtu.be/dnZkN6w6orw)
+[![Video Preview Image](https://img.youtube.com/vi/6gm8t2z4QNI/0.jpg)](https://youtu.be/6gm8t2z4QNI)
 
 
 # Git(Hub) Workshop Guide
