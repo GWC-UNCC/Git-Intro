@@ -57,7 +57,7 @@ This document is a [markdown](https://guides.github.com/features/mastering-markd
 
 ### Pre-Reqs
 
-Make sure you have followed [this setup guide](https://docs.google.com/document/d/1yCzhlfw8hHLdF0ZBhHfcjOAIyA1cO7OnHbG1he1prM0/edit?usp=sharing).
+Make sure you have followed [this setup guide](https://docs.google.com/document/d/11ZwGFpx45PvK5iCZOAl-2rKSD__lkT_wpNBkmQijtCI/edit?usp=sharing).
 
 ### Steps
 
