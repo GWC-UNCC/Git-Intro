@@ -14,7 +14,7 @@ This will be the intial steps we are going to do in order to setup for this work
 
 ### Windows
 
-- Open up an Administrative PowerShell window
+- TEsting
   - Press Shift + Right click the windows logo ( bottom left corner )
   - Click on the “Windows PowerShell (Admin)” option ![admin powershell](/pictures/intro/img00.png)
   - Click “Yes” at the administrative prompt
