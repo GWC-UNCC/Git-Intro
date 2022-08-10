@@ -1,4 +1,5 @@
 # Git(Hub) Workshop Guide
+[Watch Workshop](https://youtu.be/6gm8t2z4QNI)
 
 - [Git(Hub) Workshop Guide](#github-workshop-guide)
   - [Overview](#overview)
